@@ -7,6 +7,7 @@ Designed to showcase various articles, the interface features a clean layout wit
   <img src="Capture_Interface.png" width="300" alt="Capture image interface">
 </div>
 
+
 Access it here: https://tailwind-css-component-responsive-article-display.eliottdelhaye.com/
 
 #### Features
