@@ -3,6 +3,8 @@
 This GitHub repository contains the HTML and TailwindCSS code for an elegant, responsive article display interface. 
 Designed to showcase various articles, the interface features a clean layout with a gradient theme that visually categorizes articles.
 
+![Example Image](Capture_Interface.png "Capture image interface")
+
 #### Features
 - **Responsive Design**: Ensures the interface works seamlessly across different devices.
 - **TailwindCSS for Styling**: Utilizes TailwindCSS for efficient and flexible styling, accessed via Play CDN which requires no installation.
